@@ -8,3 +8,4 @@
 # How do you prevent that?
 
 # Your code here
+printf "A soda costs \$9?!\n"

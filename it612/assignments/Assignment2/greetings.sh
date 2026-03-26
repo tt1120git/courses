@@ -13,3 +13,5 @@ first_name=Jane
 last_name=Doe
 
 # Do not modify the above. Start your code here.
+
+printf "Hello\n%s\t%s\nHow are you?\n" "$first_name" "$last_name"

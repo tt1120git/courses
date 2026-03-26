@@ -9,3 +9,6 @@
 # Hint: How do you redirect output to a specific file descriptor?
 
 # Your code here
+
+printf "Everything is fine\n"
+printf "WARNING: SEVERE ERROR\n" >&2
